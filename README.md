@@ -228,7 +228,7 @@ git checkout -b feature/your-feature-name
 **Singamsetti Keerthi**  
 B.Tech CSE | AI/ML Enthusiast | Project Expo-2k26 Winner  
 📧 keerthisingamsetty093@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/keerthi123345)
+🔗 [LinkedIn](https://linkedin.com/in/singamsetti-keerthi) • [GitHub](https://github.com/keerthi123345)
 
 ---
 
