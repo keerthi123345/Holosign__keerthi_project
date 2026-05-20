@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+scikit-learn
+streamlit
+pandas
+numpy
+streamlit-mic-recorder
+SpeechRecognition
+pydub
